@@ -2,5 +2,13 @@
 
 [Back to main menu](../README.md)
 
-### ### Summary
+## **Summary**
+
+
+
+## **Photos**
+
+<img src="C:\Users\Admin\Documents\photography_diary\photos\sample.jpg" alt="sample photo" style="zoom:25%;" />
+
+
 
