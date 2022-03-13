@@ -1,19 +1,6 @@
-# Reading notes during the week of M/dd, 2021
+# Photography notes during the week of M/dd, 2022
 
 [Back to main menu](../README.md)
 
-### Related
+### ### Summary
 
-- 
-
-
-
-### Very interesting
-
-- 
-
-
-
-### Just reading
-
-- 
